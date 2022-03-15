@@ -1,0 +1,22 @@
+{
+  "name": "pet-care",
+  "version": "1.0.0",
+  "description": "Website de garderie d'animaux",
+  "main": "script.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elviredev/pet-care.git"
+  },
+  "author": "elviredev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elviredev/pet-care/issues"
+  },
+  "homepage": "https://elviredev.github.io/pet-care",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
